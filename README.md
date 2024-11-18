@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  ___) | (_| |  _|  __/ |_| |__   _\__, |
 |____/ \__,_|_|  \___|\___/   |_|   /_/
 ```
-#### Always being a CPP learner,love writing EDMs,Recently working on a AI project.
- Nothing but may Microsoft get their Webview2 a wine support?
+## CPP learner,writing EDMs,ML lover
+ may Microsoft get their Webview2 a wine support?
 ```
  ___                       _             _       ____ _____
 |_ _|  _   _ ___  ___     / \   _ __ ___| |__   | __ )_   _|_      __
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
  | |  | |_| \__ \  __/  / ___ \| | | (__| | | | | |_) || |  \ V  V /
 |___|  \__,_|___/\___| /_/   \_\_|  \___|_| |_| |____/ |_|   \_/\_/
 ```
-I learn a lot. **Contact: QQ:1329261154, E-Mail: safe049@163.com** 
-I from China
-Learning Deutsch right now
+**Contact: QQ:1329261154, E-Mail: safe049@163.com**
+
+I'm learning deutsch btw
