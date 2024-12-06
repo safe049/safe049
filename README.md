@@ -14,21 +14,60 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
- ____         __       ___  _  _   ___
-/ ___|  __ _ / _| ___ / _ \| || | / _ \
-\___ \ / _` | |_ / _ \ | | | || || (_) |
- ___) | (_| |  _|  __/ |_| |__   _\__, |
-|____/ \__,_|_|  \___|\___/   |_|   /_/
+                                                    ____
+                                                    |  _ \ _   _ _ __   __ _ _ __ ___   ___
+                                                    | | | | | | | '_ \ / _` | '_ ` _ \ / _ \
+                                                    | |_| | |_| | | | | (_| | | | | | | (_) |
+                                                    |____/ \__, |_| |_|\__,_|_| |_| |_|\___/
+                                                              |___/
 ```
-## CPP learner,writing EDMs,ML lover
- may Microsoft get their Webview2 a wine support?
-```
- ___                       _             _       ____ _____
-|_ _|  _   _ ___  ___     / \   _ __ ___| |__   | __ )_   _|_      __
- | |  | | | / __|/ _ \   / _ \ | '__/ __| '_ \  |  _ \ | | \ \ /\ / /
- | |  | |_| \__ \  __/  / ___ \| | | (__| | | | | |_) || |  \ V  V /
-|___|  \__,_|___/\___| /_/   \_\_|  \___|_| |_| |____/ |_|   \_/\_/
-```
-**Contact: QQ:1329261154, E-Mail: safe049@163.com**
+## Skills
 
-I'm learning deutsch btw
+- 📫 AI : Machine Learning, PyTorch, OpenCV,  Bot Development
+- 🧩 Database : MySQL, SQLite
+- 💬 Language : Python, HTML, CSS, C++, QT
+- 🎶 Music : FL Studio, Ableton Live
+- 🎨 Art : SAI2
+- 🛜 Cyber Security : SRC
+
+  
+## Tools
+
+<p align="center">
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/python.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/mysqlsvg.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/sqlite.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/docker.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/git.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/github.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/gitlabsvg.svg" />
+  
+</p>
+
+<h2>Introduce</h2>
+<div align="center">
+ 
+   I come from China 🇨🇳, a high school student, focus on AI right now<br>
+ 
+   You can call me Dynamo or 白昼<br>
+   
+   I can speak English smoothly, and can say some Deutsch<br>
+   
+   If you'd like to contact me, check "Contact" part<br>
+   
+   I love Touhou!
+   
+</div>
+
+<h2>Contact</h2>
+<div align="center">
+ 
+   QQ: 1329261154<br>
+ 
+   Discord: dynamo_231<br>
+   
+   EMAIL: 1329261154@qq.com<br>
+   
+   Secondary EMAIL: safe049@163.com<br>
+   
+</div>
