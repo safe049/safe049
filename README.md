@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |____/ \__, |_| |_|\__,_|_| |_| |_|\___/
        |___/
 ```
-[ [让我们说中文](https://github.com/safe049/safe049/README-ZH.md)            [English](https://github.com/safe049/safe049/README.md) ]
+[ [让我们说中文](https://github.com/safe049/safe049/blob/main/README-ZH.md)            [English](https://github.com/safe049/safe049/blob/main/README.md) ]
 ## Skills
 
 - 📫 AI : Machine Learning, PyTorch, OpenCV,  Bot Development
