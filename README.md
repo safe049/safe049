@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 |____/ \__, |_| |_|\__,_|_| |_| |_|\___/
        |___/
 ```
+[中文](https://github.com/safe049/safe049/README-ZH.md)
+[英文](https://github.com/safe049/safe049/README.md)
 ## Skills
 
 - 📫 AI : Machine Learning, PyTorch, OpenCV,  Bot Development
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 <h2>Introduce</h2>
 <div align="center">
  
-   I come from China 🇨🇳, a high school student, focus on AI right now<br>
+   I come from China 🇨🇳, I am high school student, focus on AI right now<br>
  
    You can call me Dynamo or 白昼<br>
    
